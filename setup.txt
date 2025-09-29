@@ -1,0 +1,9 @@
+🎨 Alternativ 1: Mørk og profesjonell
+
+Bakgrunn: #121212 (svart/mørk grå)
+
+Hovedtekst: #f5f5f5 (lys grå-hvit)
+
+Aksent (lenker, knapper): #1e90ff (blå)
+
+Sekundær aksent: #888888 (grå)
