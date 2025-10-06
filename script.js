@@ -4,7 +4,7 @@ const sections = [
     description: `
     <h3>Experience</h3>
     <h4>Profile</h4>
-    <p>I am an 1st year Dataengineer at NTNU Gjøvik and have finished High School in natural science. 
+    <p>I am a 1st year Dataengineer at NTNU Gjøvik and have finished High School in natural science. 
     I have gained work experience from agriculture, youth 
     sports coaching, retail, and municipal outdoor maintenance. I am motivated, 
     reliable, and eager to learn. I am seeking part-time work in IT to further develop 
@@ -82,20 +82,85 @@ const sections = [
   {
     title: "Main Project",
     description: `
-      <h3>Block Catcher</h3>
-      <p>A game i coded when i was in High School as a final grade</p>
-      <hr>
-      <a href="other/Block_Catcher.zip" target="_blank">Block Catcher Download.zip</a>
+    <h3>Block Catcher</h3>
+    <p>A game I coded during High School as my final grade project.</p>
+
+    <h4>Description</h4>
+    <hr>
+    <p>
+      The game starts with a main menu that introduces the player to the rules and objective.  
+      You control a small block at the bottom of the screen, and your goal is to catch falling blocks before they hit the ground.  
+      The game gets progressively faster, challenging your reflexes and reaction time.  
+    </p>
+
+    <p>
+      While it may look simple, this project was where I first learned to combine coding, logic, and creativity into a fully working game.  
+      I showcase it as my main project because it represents my first big milestone in programming and problem-solving.
+    </p>
+
+    <p>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>Main menu with instructions</li>
+        <li>Player-controlled block movement</li>
+        <li>Increasing difficulty as blocks fall faster</li>
+        <li>Score tracking</li>
+        <li>Simple yet fun gameplay</li>
+      </ul>
+    </p>
+
+    <p>
+      <a href="other/Block_Catcher.zip" target="_blank">📥 Download Block Catcher (ZIP)</a>
+    </p>
     `
   },
   {
     title: "Other Projects",
     description: `
-      <h3>Projects</h3>
-      <h4>Ev3 Mindstorm Track Project</h4>
-      <p>...</p>
-      <hr>
-      <p>This e-portfolio: Built with HTML, CSS and JavaScript. Responsive and easy to extend.</p>
+    <h3>Projects</h3>
+    <h4>EV3 Mindstorm Track Project (Ongoing)</h4>
+    <p>
+      A robotics project where I programmed a LEGO Mindstorms EV3 robot to navigate and race on a custom-built track.  
+      The project focuses on <strong>autonomous navigation, sensor integration</strong> (color and ultrasonic sensors), and <strong>algorithm design</strong> for pathfinding and obstacle avoidance.  
+      This project helped me develop a deeper understanding of robotics, programming logic, and iterative testing.  
+    </p>
+    <p>
+      Repository: <a href="https://github.com/wessel05j/Racing-project-Ev3-lego-robot-.git" target="_blank">GitHub - Racing Project EV3</a>
+    </p>
+
+    <h4>This e-Portfolio (Ongoing)</h4>
+    <p>
+      This very portfolio is one of my most important projects because it is designed, coded, and maintained entirely by me.  
+      It is built with <strong>HTML, CSS, and JavaScript</strong>, and I keep improving it to serve as both a professional portfolio and a sandbox for experimenting with new ideas.  
+    </p>
+    <p>
+      Key aspects include:
+      <ul>
+        <li><strong>Responsive Design:</strong> Optimized for desktop, tablet, and mobile devices.</li>
+        <li><strong>Clean & Extendable Structure:</strong> Built in a modular way, making it easy to add new projects or features.</li>
+        <li><strong>Styling & Theming:</strong> Minimal yet modern look, focusing on readability and user experience.</li>
+        <li><strong>Ongoing Development:</strong> Currently working on adding interactive elements, improved navigation, and possibly API integrations.</li>
+      </ul>
+    </p>
+    <p>
+      Repository: <a href="https://github.com/wessel05j/E-Portfolio.git" target="_blank">GitHub - Racing Project EV3</a>
+    </p>
+
+    <h4>Motivational Diary (Java Project – Ongoing)</h4>
+    <p>
+      A personal project where I am developing a <strong>Java-based diary application</strong>.  
+      The goal is to create a simple but effective tool where users (including myself) can record daily thoughts, track motivation levels, and set personal goals.  
+    </p>
+    <p>
+      Planned features:
+      <ul>
+        <li>User-friendly interface for writing daily entries</li>
+        <li>Search and filter by dates, moods, or tags</li>
+        <li>Export functionality (text or JSON) for backups</li>
+        <li>Future extension: statistics/graphs of motivation over time</li>
+      </ul>
+    </p>
+    <hr>
     `
   }
 ];
