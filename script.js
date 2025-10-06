@@ -168,7 +168,7 @@ const sections = [
       </ul>
     </p>
     <p>
-      Repository: <a href="https://github.com/wessel05j/E-Portfolio.git" target="_blank">GitHub - Racing Project EV3</a>
+      Repository: <a href="https://github.com/wessel05j/E-Portfolio.git" target="_blank">E-Portfolio</a>
     </p>
 
     <h4>Motivational Diary (Java Project – Ongoing)</h4>
